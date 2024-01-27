@@ -6,6 +6,7 @@ I'm Sharan, and I'm diving deep into the world of C++ to explore its incredible 
 
 Learning Progress
 Milestones Achieved ✔️  
+DAY 0  
 [1] Programming Foundations: Built a solid understanding of the fundamental concepts.  
 [2] Loops Mastery: Explored the efficiency of repetition using loops.  
 [3] Conditional Statements: Delved into decision-making with conditional statements.  
