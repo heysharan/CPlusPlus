@@ -5,7 +5,7 @@ Overview
 I'm Sharan, and I'm diving deep into the world of C++ to explore its incredible possibilities and master the art of coding. This repository serves as a documentation of my journey, capturing the milestones, challenges, and the code I craft along the way.
 
 Learning Progress
-Milestones Achieved ✔️
+Milestones Achieved ✔️  
 [1] Programming Foundations: Built a solid understanding of the fundamental concepts.  
 [2] Loops Mastery: Explored the efficiency of repetition using loops.  
 [3] Conditional Statements: Delved into decision-making with conditional statements.  
